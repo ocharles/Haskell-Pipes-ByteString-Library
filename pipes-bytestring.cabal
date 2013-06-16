@@ -25,5 +25,5 @@ Library
         pipes >= 3.3.0,
         pipes-parse >= 1.0.0
     Exposed-Modules:
-        Control.Proxy.ByteString
+        Pipes.ByteString
     Default-Language: Haskell98
