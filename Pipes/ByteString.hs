@@ -121,7 +121,7 @@ import Control.Monad.Trans.State.Strict (StateT(..))
 import Pipes ((>->))
 import qualified Pipes as P
 import qualified Pipes.Prelude as P
-import Control.Proxy.Parse (draw, unDraw, drawAll)
+import Pipes.Parse (draw, unDraw, drawAll)
 import qualified Data.ByteString as BS
 import qualified Data.ByteString.Lazy as BL
 import qualified Data.ByteString.Lazy.Internal as BLI
